@@ -16,7 +16,7 @@ from setuptools import setup, find_packages
 VERSION = '0.0.1'
 
 tests_require = [
-    'pytest==2.8.5',
+    'pytest==9.0.3',
     'tox==2.3.1',
 ]
 
